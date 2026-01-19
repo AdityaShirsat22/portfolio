@@ -755,4 +755,8 @@ section {
     .profile-image i {
         font-size: 80px;
     }
+
+    .cta-buttons {
+        justify-content: center;
+    }
 }
